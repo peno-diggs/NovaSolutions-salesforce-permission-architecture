@@ -94,4 +94,4 @@ Each of these is documented in the workbook with a note on how the production im
 
 I am a Salesforce Administrator and CRM Business Analyst. This project is part of a portfolio I am building to demonstrate real-world Salesforce administration and business analysis skills across CRM, Sales, Finance and Analytics.
 
-Feel free to reach out on [LinkedIn]([your linkedin url here]) if you want to talk about any of it.
+Feel free to reach out on LinkedIn https://www.linkedin.com/in/michael-adedayo-dami/ if you want to talk about any of it.
