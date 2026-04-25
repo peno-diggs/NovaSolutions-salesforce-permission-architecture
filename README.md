@@ -53,12 +53,12 @@ Three sharing rules to handle cases where the role hierarchy alone was not enoug
 | File | What It Contains |
 |---|---|
 | `H1_Permission_Architecture_NovaTech.xlsx` | Full decision matrix across 5 tabs |
-| `01_Role_Hierarchy.png` | Full role hierarchy tree as built in Salesforce |
-| `02_OWD_Settings.png` | Org-Wide Default settings for all objects |
-| `03_Permission_Sets.png` | All 5 permission sets |
-| `04_Spring25_PSG_Summary.png` | Spring 25 PSG management via PS Summary page |
-| `05_Sharing_Rules.png` | All 3 sharing rules |
-| `06_PSG_List.png` | All 4 Permission Set Groups |
+| `01_Role_Hierarchy.jpg` | Full role hierarchy tree as built in Salesforce |
+| `02_OWD_Settings.jpg` | Org-Wide Default settings for all objects |
+| `03_Permission_Sets1-4.jpg` | All 5 permission sets |
+| `04_Spring25_PSG_Summary.jpg` | Spring 25 PSG management via PS Summary page |
+| `05_Sharing_Rules.jpg` | All 3 sharing rules |
+| `06_PSG_List.jpg` | All 4 Permission Set Groups |
 
 The Excel workbook has 5 tabs:
 
